@@ -16,7 +16,7 @@ Welcome to the Agechecker project! This web application helps you determine whet
 
 ## Demo
 
-Check out the AgeChecker project: [lifeStage Demo](https://waliullahsiam.github.io/examProject1/)
+Check out the AgeChecker project: [AgeChecker Demo](https://waliullahsiam.github.io/examProject1/)
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ Check out the AgeChecker project: [lifeStage Demo](https://waliullahsiam.github.
 
 ## How to Use
 
-1. Open the [lifeStage Demo](https://waliullahsiam.github.io/examProject1/).
+1. Open the [AgeChecker Demo](https://waliullahsiam.github.io/examProject1/).
 2. Enter your age in the input field.
 3. See the card displayed below the banner, indicating whether you are an adult or a child.
 
